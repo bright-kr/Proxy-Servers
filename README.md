@@ -1,6 +1,6 @@
 # Bright Data's Proxy Servers
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types/proxy-servers) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types/proxy-servers) 
 
 ## Overview
 정밀한 타기팅, 비교할 수 없는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Proxy servers](https://brightdata.co.kr/proxy-types/proxy-servers)로 중단 없는 スクレイピング을 경험해 보시기 바랍니다.
@@ -38,7 +38,7 @@ Bright Data는 プロキシ 업계의 리더로서 20,000명 이상의 고객에
 - **3G/4G/5G モバイル IP**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/proxy-servers) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/proxy-servers) 
 
 ## Key Features
 - **글로벌 커버리지**: [195개 국가](https://brightdata.co.kr/locations)에서 이용 가능한 Proxy Servers입니다.
